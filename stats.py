@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import re
+import readline
 
 KMS_PER_MILE = 1.60934
 

@@ -3,6 +3,7 @@
 import re
 from functools import reduce
 from enum import Enum, auto
+import readline
 
 MILES_PER_KM = 0.621371
 
